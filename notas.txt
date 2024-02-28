@@ -1,0 +1,5 @@
+para trabajar con graphql utilizamos una libreria llamada: ariadne
+
+
+instalacion 
+pip install ariadne
